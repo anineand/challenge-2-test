@@ -20,4 +20,3 @@ Tests run automatically on every pull request via GitHub Actions.
 ## Bugs & Support
 
 Found a bug or have a question? [Open an issue](../../issues/new) and we'll look into it.
-hallo
